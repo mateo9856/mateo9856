@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mateusz Magdziak
 - 👀 I’m interested in watch fantasy films, automotive and technology news
-- 🌱 I’m currently learning .Net Core, Azure and Docker
+- 🌱 My favourite tech stack: .NET, Azure, React
